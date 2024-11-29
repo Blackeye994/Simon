@@ -7,7 +7,7 @@ let level = 0;
 let key = false;
 
 let body = document.querySelector("body");
-body.addEventListener("keydown",function(){
+body.addEventListener("click",function(){
     if(key == false)
         {
             startChange();
