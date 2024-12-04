@@ -112,3 +112,8 @@ h2 {
         font-size: 1em; 
     }
 }
+
+/* Help Page */
+ul li{
+    list-style-type: circle;
+}
